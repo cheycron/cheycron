@@ -14,7 +14,6 @@ My work focuses on leveraging technology for public safety, healthcare, and busi
 - 🔭 **Currently working on:** Next-gen public safety platforms and smart city solutions.
 - 🌱 **Learning:** Deep diving into AI models (Stable Diffusion, LLMs) and expanding my 3D modeling skills.
 - 💬 **Ask me about:** System Architecture, DevOps, Public Sector Tech, Business Intelligence (Grafana), and Leadership.
-- ⚡ **Fun fact:** I sing in the shower and I'm "fatter, balder, and older than my profile picture."
 
 ---
 
