@@ -65,4 +65,4 @@ Overseeing a team of 40+ professionals across development, infrastructure, and o
 
 ---
 
-*“Sometimes, the thread we pull to unravel another's past is the one that ends up mending our own soul.”* - From my book, **The Red Thread**.
+*“Sometimes, the thread we pull to unravel another's past is the one that ends up mending our own soul.”* - From my book, [**The Red Thread**](https://play.google.com/store/books/details/Leonardo_Anibal_Chocr%C3%B3n_El_Hilo_Rojo?id=Lj2TEQAAQBAJ).
